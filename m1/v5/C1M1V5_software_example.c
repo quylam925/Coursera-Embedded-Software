@@ -45,6 +45,8 @@
 int find_average(int * ptr, int count);
  
 void main(){
+
+  printf("Hello world\n");
   int i = 0;
   /* A set of numbers in the range of [0,5] */
   int numbers[NUMBER_SET_LENGTH] = {1, 4, 5, 1, 3,
